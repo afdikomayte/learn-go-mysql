@@ -1,4 +1,4 @@
-package learn_go_mysql_test
+package learn_go_mysql
 
 import (
 	"database/sql"
